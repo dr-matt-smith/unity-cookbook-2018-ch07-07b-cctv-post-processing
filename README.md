@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch06-07b-cctv-post-processing
+# unity-cookbook-2018-ch07-07b-cctv-post-processing
